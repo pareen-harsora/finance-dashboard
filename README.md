@@ -74,6 +74,7 @@ date,description,category,amount,balance
 
 ## Project Structure
 
+```
 finance-dashboard/
 ├── src/
 │   ├── components/
@@ -88,6 +89,7 @@ finance-dashboard/
 ├── .env                         # API key (never committed)
 ├── .gitignore
 └── README.md
+```
 
 ## Security
 
